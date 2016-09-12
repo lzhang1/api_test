@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #
 # https://github.com/HackerNews/API
+=======
+# https://github.com/HackerNews/API
+
+>>>>>>> 14b16779eb0ccc43f008c71a88ccccf8881d154d
 Feature: Hacker News REST API validation
 
   Scenario: Verify top stories JSON schema
