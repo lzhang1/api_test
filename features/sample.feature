@@ -1,4 +1,5 @@
 # https://github.com/HackerNews/API
+
 Feature: Hacker News REST API validation
 
   Scenario: Verify top stories JSON schema
