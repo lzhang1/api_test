@@ -1,3 +1,4 @@
+#
 # https://github.com/HackerNews/API
 Feature: Hacker News REST API validation
 
